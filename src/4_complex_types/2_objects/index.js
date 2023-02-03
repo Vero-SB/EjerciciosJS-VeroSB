@@ -7,6 +7,7 @@
  * Each property can store any kind of data: numbers, strings or ever arrays
  * or other objects.
  * 
+ * 
  * Example:
  * 
  * let teacher = {

@@ -18,6 +18,11 @@
  */
 
 // Write your code here.
+myNumber = 1;
+myString = "texto";
+turnedOn = true;
+let noValue = undefined;
+let unknownValue = null;
 
 /**
  * Don't to change next lines.

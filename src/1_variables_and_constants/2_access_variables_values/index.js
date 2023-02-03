@@ -10,7 +10,7 @@ let firstVariable = 42
 let secondVariable = firstVariable // secondVariable value is 42
 
 // Write your code here.
-
+let myVariable = secondVariable;
 /**
  * Don't to change next lines.
  */

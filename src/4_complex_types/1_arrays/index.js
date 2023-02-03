@@ -4,6 +4,7 @@
  * Arrays are named "lists" in other programming languajes.
  * JavaScript arrays are ordered lists of values of any kind represented by [], like
  * let fruits = ["apple", "orange", "banana"]
+ * os elementos están ordeados: apple sería o elemento 0, orange o elemento 1, banana o elemento 2)
  * 
  * Exercise:
  * - Declare a variable named "primes" and assign to it
