@@ -23,6 +23,9 @@ changingValue **= 2
 changingValue /= 100
 changingValue %= 5
 
+myResultGuess = 1
+
+
 /**
  * Don't to change next lines.
  */

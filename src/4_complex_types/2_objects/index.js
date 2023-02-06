@@ -24,7 +24,12 @@
  */
 
 // Write your code here.
-
+let pet = {
+    name: "KitKat",
+    species: "cat",
+    birthYear: 1983,
+    friendly: true,
+}
 /**
  * Don't to change next lines.
  */
