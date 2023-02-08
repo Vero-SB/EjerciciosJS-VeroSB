@@ -4,7 +4,7 @@
  */
 
 // Escribe aquí o teu código.
-
+let resposta = document.querySelector("p#capturame")
 /**
  * Non cambies nada despois destas liñas
  */
