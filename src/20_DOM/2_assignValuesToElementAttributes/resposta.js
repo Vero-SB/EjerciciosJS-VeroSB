@@ -5,6 +5,8 @@
  */
 
 // Escribe aquí o teu código.
+let resposta = document.querySelector("input")
+resposta.value = "ola"
 
 /**
  * Non cambies nada despois destas liñas
