@@ -11,6 +11,8 @@
  *      }
  * }
  * 
+ * typeof sempre devolve un "string"
+ * 
  * Exercise:
  * 
  * Write a function "divisionDe" that recives two values and
